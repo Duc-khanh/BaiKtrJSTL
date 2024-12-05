@@ -30,7 +30,6 @@
             <td>${ClassMenagement.averageScore}</td>
             <td>${ClassMenagement.status}</td>
         </tr>
-
     </c:forEach>
 
 </table>
